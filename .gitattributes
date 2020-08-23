@@ -1,0 +1,3 @@
+.vscode/** -linguist-detectable
+.scrap/** -linguist-detectable
+test-root/** -linguist-detectable
